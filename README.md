@@ -1,5 +1,5 @@
 <h4>
-  Hey, I am <strong>Henrique</strong>, but you can call me <strong>Henry</strong>. I come from video editing, and organizing projects and deliver the best result is something I strive for.
+  Hey, I am <b>Henrique</b>, but you can call me <b>Henry</b>. I come from video editing, and organizing projects and deliver the best result is something I strive for.
   Currently I'm studying to be a full-stack developer with focus on front-end and I'm living in Italy at the moment! 
   <br>
   <br>
@@ -20,7 +20,11 @@
   Overall I'm pretty easygoing and easy to talk to, I'm still studying and I'll be posting some of my projects in this journey. 
 </h4>
 <hr>
-
+<br>
+<br>
+<b></b>Here's my tech stack: HTML, CSS, BOOTSTRAP and NODEJS.</b>
+<br>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs)](https://skillicons.dev)
 
 <hr>
