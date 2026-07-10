@@ -1,9 +1,9 @@
 <h4>
   Hey, I am <strong>Henrique</strong>, but you can call me <strong>Henry</strong>. I come from video editing, and organizing projects and deliver the best result is something I strive for.
   Currently I'm studying to be a full-stack developer with focus on front-end and I'm living in Italy at the moment! 
+
   
   <br>
-  
   here are some more personal things about me:
   <br>
   <ul>
