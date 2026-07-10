@@ -21,7 +21,6 @@
 </h4>
 <hr>
 <br>
-<br>
 <b></b>Here's my tech stack: HTML, CSS, BOOTSTRAP and NODEJS.</b>
 <br>
 <br>
