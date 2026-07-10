@@ -20,12 +20,13 @@
   Overall I'm pretty easygoing and easy to talk to, I'm still studying and I'll be posting some of my projects in this journey. 
 </h4>
 <hr>
-<b>Here's my tech stack: HTML, CSS, BOOTSTRAP and NODEJS.</b>
+<b>Here are some of my tech stack: JAVASCRIPT, HTML, CSS, BOOTSTRAP and NODEJS.</b>
 <br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs)](https://skillicons.dev)
 
 <hr>
+
 
 My socials:
 
