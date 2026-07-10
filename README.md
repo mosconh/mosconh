@@ -1,4 +1,20 @@
-<h4>I am a Front-End Full Stack Developer currently pursuing my studies while building practical web development skills. I enjoy creating responsive, user-friendly applications using modern front-end technologies and expanding my knowledge of back-end development. As a student, I am continuously learning, taking on new challenges, and working on projects that help me grow as a developer.</h4>
+<h4>
+  Hey, I am <strong>Henrique</strong>, but you can call me <strong>Henry</strong>. I come from video editing, and organizing projects and deliver the best result is something I strive for.
+  Currently I'm studying to be a full-stack developer with focus on front-end and I'm living in Italy at the moment! 
+
+  here are some more personal things about me:
+  <ul>
+    <li>
+      I love video games
+    </li>
+    <li>
+      I started drinking cappuccino in the mornings
+    </li>
+    <li>
+      I have a youtube channel (mostly singleplayer games)
+    </li>
+  </ul>
+</h4>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs)](https://skillicons.dev)
