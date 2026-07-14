@@ -1,0 +1,148 @@
+@charset "UTF-8";
+/*
+Color pallet
+#675854 - lighter
+#553B36 - light
+#1D1D1D - darker
+*/
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family:
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Oxygen,
+        Ubuntu,
+        Cantarell,
+        "Open Sans",
+        "Helvetica Neue",
+        sans-serif;
+    box-sizing: border-box;
+}
+
+body,
+html {
+    background-color: #1d1d1d;
+    height: 100vh;
+    width: 100vw;
+}
+
+main {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+section#login {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    overflow: hidden;
+
+    background-color: white;
+    width: 250px;
+    height: 515px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #00000050;
+
+    transition:
+        width 0.3s,
+        height 0.3s;
+    transition-timing-function: ease;
+    transform: translate(-50%, -50%);
+}
+
+#image {
+    display: block;
+    background: #1d1d1d url("../imagens/pattern-01.jpg") no-repeat;
+    background-position: center right;
+    background-size: cover;
+    height: 200px;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.campo { /*behind the email/password button invisible background */
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    background: #000000bb;
+    border-radius: 8px;
+    overflow: hidden;
+    padding: 0;
+    margin: 5px 0px;
+}
+
+label {
+    display: none;
+}
+
+.typeInputs { /*Both inputs e-mail and password */
+    width: 100%;
+    height: 40px;
+    border: 2px solid black;
+    outline: none;
+    border-radius: 6px;
+    padding:  0px 8px;
+    font-size: 1em;
+    box-sizing: border-box;
+}
+
+ .logInButton {  /*Log in Button*/
+    width: 100%;
+    height: 40px;
+    background-color: #1D1D1D;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    padding:  0px 8px;
+    font-size: 1em;
+    color: white;
+}
+
+.logInButton:hover {
+    background-color: #675854;
+}
+
+.button { /* forgot password button */
+    display: block;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    outline: none;
+    margin: 5px 0px 0px 0px;
+    border-radius: 6px;
+    padding:  0px 8px;
+    font-size: 1em;
+    color: rgb(0, 0, 0);
+}
+
+.button:hover {
+    background-color: #ccb0a9;
+}
+
+.button > span {
+    font-size: 0.8em;
+}
