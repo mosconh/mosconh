@@ -17,7 +17,7 @@
       I have a youtube channel (mostly singleplayer games)
     </li>
   </ul>
-  Overall I'm pretty easygoing and easy to talk to, I'm still studying and I'll be posting some of my projects in this journey. 
+  Overall I'm pretty easygoing and easy to talk to, I'm still studying and I'll be posting some of my projects during this journey. 
 </h4>
 <hr>
 <b>Here are some of my tech stack: JAVASCRIPT, HTML, CSS, BOOTSTRAP and NODEJS.</b>
