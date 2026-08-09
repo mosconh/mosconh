@@ -1,5 +1,5 @@
 <h4>
-  Hey, I am <b>Henrique</b>, but you can call me <b>Henry</b>. I come from video editing, and organizing projects and deliver the best result is something I strive for.
+  Hey, I am <b>Henrique</b>, but you can call me <b>Henry</b>. I come from video editing, and organizing projects and delivering the best result is something I strive for.
   Currently I'm studying to be a full-stack developer with focus on front-end and I'm living in Italy at the moment! 
   <br>
   <br>
