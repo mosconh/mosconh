@@ -11,7 +11,7 @@
       I love video games
     </li>
     <li>
-      I started drinking cappuccino in the mornings
+      I started drinking cappuccino in the mornings (I moved to Italy)
     </li>
     <li>
       I have a youtube channel (mostly singleplayer games)
